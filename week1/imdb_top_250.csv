@@ -1,0 +1,251 @@
+Title,Ranking,Initial release year,Casting,Rating
+      The Shawshank Redemption,1,1994,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",9.2
+      The Godfather,2,1972,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",9.2
+      The Dark Knight,3,2008,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",9.0
+      The Godfather: Part II,4,1974,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",9.0
+      12 Angry Men,5,1957,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",9.0
+      Schindler's List,6,1993,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",8.9
+      The Lord of the Rings: The Return of the King,7,2003,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",8.9
+      Pulp Fiction,8,1994,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",8.9
+      The Lord of the Rings: The Fellowship of the Ring,9,2001,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",8.8
+"      The Good, the Bad and the Ugly",10,1966,"Sergio Leone (dir.), Clint Eastwood, Eli Wallach",8.8
+      Forrest Gump,11,1994,"Robert Zemeckis (dir.), Tom Hanks, Robin Wright",8.8
+      Fight Club,12,1999,"David Fincher (dir.), Brad Pitt, Edward Norton",8.8
+      Inception,13,2010,"Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",8.7
+      The Lord of the Rings: The Two Towers,14,2002,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",8.7
+      The Empire Strikes Back,15,1980,"Irvin Kershner (dir.), Mark Hamill, Harrison Ford",8.7
+      The Matrix,16,1999,"Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",8.7
+      Goodfellas,17,1990,"Martin Scorsese (dir.), Robert De Niro, Ray Liotta",8.7
+      One Flew Over the Cuckoo's Nest,18,1975,"Milos Forman (dir.), Jack Nicholson, Louise Fletcher",8.6
+      Se7en,19,1995,"David Fincher (dir.), Morgan Freeman, Brad Pitt",8.6
+      Seven Samurai,20,1954,"Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",8.6
+      It's a Wonderful Life,21,1946,"Frank Capra (dir.), James Stewart, Donna Reed",8.6
+      The Silence of the Lambs,22,1991,"Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",8.6
+      Saving Private Ryan,23,1998,"Steven Spielberg (dir.), Tom Hanks, Matt Damon",8.6
+      City of God,24,2002,"Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",8.6
+      Life Is Beautiful,25,1997,"Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",8.6
+      The Green Mile,26,1999,"Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",8.6
+      Star Wars,27,1977,"George Lucas (dir.), Mark Hamill, Harrison Ford",8.6
+      Interstellar,28,2014,"Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",8.6
+      Terminator 2: Judgment Day,29,1991,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",8.5
+      Back to the Future,30,1985,"Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",8.5
+      Spirited Away,31,2001,"Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",8.5
+      Psycho,32,1960,"Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",8.5
+      Leon: The Professional,33,1994,"Luc Besson (dir.), Jean Reno, Gary Oldman",8.5
+      The Pianist,34,2002,"Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",8.5
+      Parasite,35,2019,"Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",8.5
+      The Lion King,36,1994,"Roger Allers (dir.), Matthew Broderick, Jeremy Irons",8.5
+      Gladiator,37,2000,"Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",8.5
+      American History X,38,1998,"Tony Kaye (dir.), Edward Norton, Edward Furlong",8.5
+      The Usual Suspects,39,1995,"Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",8.5
+      The Departed,40,2006,"Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",8.5
+      The Prestige,41,2006,"Christopher Nolan (dir.), Christian Bale, Hugh Jackman",8.5
+      Casablanca,42,1942,"Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",8.5
+      Whiplash,43,2014,"Damien Chazelle (dir.), Miles Teller, J.K. Simmons",8.5
+      The Intouchables,44,2011,"Olivier Nakache (dir.), François Cluzet, Omar Sy",8.5
+      Modern Times,45,1936,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",8.5
+      Once Upon a Time in the West,46,1968,"Sergio Leone (dir.), Henry Fonda, Charles Bronson",8.5
+      Seppuku,47,1962,"Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",8.5
+      Grave of the Fireflies,48,1988,"Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",8.5
+      Alien,49,1979,"Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",8.4
+      Rear Window,50,1954,"Alfred Hitchcock (dir.), James Stewart, Grace Kelly",8.4
+      City Lights,51,1931,"Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",8.4
+      Memento,52,2000,"Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",8.4
+      Apocalypse Now,53,1979,"Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",8.4
+      Cinema Paradiso,54,1988,"Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",8.4
+      Raiders of the Lost Ark,55,1981,"Steven Spielberg (dir.), Harrison Ford, Karen Allen",8.4
+      Django Unchained,56,2012,"Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",8.4
+      Spider-Man: No Way Home,57,2021,"Jon Watts (dir.), Tom Holland, Zendaya",8.4
+      WALL·E,58,2008,"Andrew Stanton (dir.), Ben Burtt, Elissa Knight",8.4
+      The Lives of Others,59,2006,"Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",8.4
+      Sunset Boulevard,60,1950,"Billy Wilder (dir.), William Holden, Gloria Swanson",8.4
+      The Shining,61,1980,"Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",8.4
+      Paths of Glory,62,1957,"Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",8.4
+      The Great Dictator,63,1940,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",8.4
+      Avengers: Infinity War,64,2018,"Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",8.4
+      Witness for the Prosecution,65,1957,"Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",8.4
+      Aliens,66,1986,"James Cameron (dir.), Sigourney Weaver, Michael Biehn",8.4
+      American Beauty,67,1999,"Sam Mendes (dir.), Kevin Spacey, Annette Bening",8.3
+      The Dark Knight Rises,68,2012,"Christopher Nolan (dir.), Christian Bale, Tom Hardy",8.3
+      D,69,1964,"Stanley Kubrick (dir.), Peter Sellers, George C. Scott",8.3
+      Joker,70,2019,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",8.3
+      Spider-Man: Into the Spider-Verse,71,2018,"Bob Persichetti (dir.), Shameik Moore, Jake Johnson",8.3
+      Oldboy,72,2003,"Park Chan-wook (dir.), Choi Min-sik, Yoo Ji-Tae",8.3
+      Braveheart,73,1995,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",8.3
+      Toy Story,74,1995,"John Lasseter (dir.), Tom Hanks, Tim Allen",8.3
+      Amadeus,75,1984,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",8.3
+      Coco,76,2017,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",8.3
+      Inglourious Basterds,77,2009,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",8.3
+      Das Boot,78,1981,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",8.3
+      Avengers: Endgame,79,2019,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",8.3
+      Princess Mononoke,80,1997,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",8.3
+      Once Upon a Time in America,81,1984,"Sergio Leone (dir.), Robert De Niro, James Woods",8.3
+      Good Will Hunting,82,1997,"Gus Van Sant (dir.), Robin Williams, Matt Damon",8.3
+      Toy Story 3,83,2010,"Lee Unkrich (dir.), Tom Hanks, Tim Allen",8.3
+      Requiem for a Dream,84,2000,"Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",8.3
+      3 Idiots,85,2009,"Rajkumar Hirani (dir.), Aamir Khan, Madhavan",8.3
+      Your Nam,86,2016,"Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",8.3
+      Singin' in the Rain,87,1952,"Stanley Donen (dir.), Gene Kelly, Donald O'Connor",8.3
+      Star Wars: Episode VI - Return of the Jedi,88,1983,"Richard Marquand (dir.), Mark Hamill, Harrison Ford",8.3
+      Reservoir Dogs,89,1992,"Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",8.3
+      Eternal Sunshine of the Spotless Mind,90,2004,"Michel Gondry (dir.), Jim Carrey, Kate Winslet",8.3
+      2001: A Space Odyssey,91,1968,"Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",8.3
+      Tengoku to jigoku,92,1963,"Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",8.3
+      Citizen Kane,93,1941,"Orson Welles (dir.), Orson Welles, Joseph Cotten",8.3
+      Lawrence of Arabia,94,1962,"David Lean (dir.), Peter O'Toole, Alec Guinness",8.3
+      Capharnaüm,95,2018,"Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",8.3
+      M,96,1931,"Fritz Lang (dir.), Peter Lorre, Ellen Widmann",8.3
+      North by Northwest,97,1959,"Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",8.3
+      The Hunt,98,2012,"Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",8.3
+      The Batman,99,2022,"Matt Reeves (dir.), Robert Pattinson, Zoë Kravitz",8.3
+      Vertigo,100,1958,"Alfred Hitchcock (dir.), James Stewart, Kim Novak",8.3
+      Amelie,101,2001,"Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",8.3
+      A Clockwork Orange,102,1971,"Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",8.3
+      Full Metal Jacket,103,1987,"Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",8.2
+      Scarface,104,1983,"Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",8.2
+      Double Indemnity,105,1944,"Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",8.2
+      Idi i smotri,106,1985,"Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",8.2
+      The Apartment,107,1960,"Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",8.2
+      Taxi Driver,108,1976,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",8.2
+      To Kill a Mockingbird,109,1962,"Robert Mulligan (dir.), Gregory Peck, John Megna",8.2
+      The Sting,110,1973,"George Roy Hill (dir.), Paul Newman, Robert Redford",8.2
+      Up,111,2009,"Pete Docter (dir.), Edward Asner, Jordan Nagai",8.2
+      ,112,1997,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",8.2
+      Hamilton,113,2020,"Thomas Kail (dir.), Lin-Manuel Miranda, Phillipa Soo",8.2
+      Heat,114,1995,"Michael Mann (dir.), Al Pacino, Robert De Niro",8.2
+      Ikiru,115,1952,"Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",8.2
+      Snatch,116,2000,"Guy Ritchie (dir.), Jason Statham, Brad Pitt",8.2
+      Die Hard,117,1988,"John McTiernan (dir.), Bruce Willis, Alan Rickman",8.2
+      Indiana Jones and the Last Crusade,118,1989,"Steven Spielberg (dir.), Harrison Ford, Sean Connery",8.2
+      A Separation,119,2011,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",8.2
+      Metropolis,120,1927,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",8.2
+      Bicycle Thieves,121,1948,"Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",8.2
+      Incendies,122,2010,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",8.2
+      1917,123,2019,"Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",8.2
+      Like Stars on Earth,124,2007,"Aamir Khan (dir.), Darsheel Safary, Aamir Khan",8.2
+      Batman Begins,125,2005,"Christopher Nolan (dir.), Christian Bale, Michael Caine",8.2
+      For a Few Dollars More,126,1965,"Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",8.2
+      Dangal,127,2016,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",8.2
+      Downfall,128,2004,"Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",8.2
+      The Kid,129,1921,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",8.2
+      Some Like It Hot,130,1959,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",8.2
+      The Father,131,2020,"Florian Zeller (dir.), Anthony Hopkins, Olivia Colman",8.2
+      All About Eve,132,1950,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",8.2
+      Green Book,133,2018,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",8.2
+      The Wolf of Wall Street,134,2013,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",8.2
+      Unforgiven,135,1992,"Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",8.2
+      Casino,136,1995,"Martin Scorsese (dir.), Robert De Niro, Sharon Stone",8.2
+      Judgment at Nuremberg,137,1961,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",8.2
+      Pan's Labyrinth,138,2006,"Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",8.2
+      Ran,139,1985,"Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",8.2
+      A Beautiful Mind,140,2001,"Ron Howard (dir.), Russell Crowe, Ed Harris",8.2
+      The Sixth Sense,141,1999,"M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",8.2
+      Monty Python and the Holy Grail,142,1975,"Terry Gilliam (dir.), Graham Chapman, John Cleese",8.2
+      There Will Be Blood,143,2007,"Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",8.2
+      The Truman Show,144,1998,"Peter Weir (dir.), Jim Carrey, Ed Harris",8.2
+      Yojimbo,145,1961,"Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",8.2
+      The Treasure of the Sierra Madre,146,1948,"John Huston (dir.), Humphrey Bogart, Walter Huston",8.2
+      Shutter Island,147,2010,"Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",8.2
+      The Great Escape,148,1963,"John Sturges (dir.), Steve McQueen, James Garner",8.2
+      Rashomon,149,1950,"Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",8.1
+      Jurassic Park,150,1993,"Steven Spielberg (dir.), Sam Neill, Laura Dern",8.1
+      Kill Bill: Vo,151,2003,"Quentin Tarantino (dir.), Uma Thurman, David Carradine",8.1
+      Finding Nemo,152,2003,"Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",8.1
+      No Country for Old Men,153,2007,"Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",8.1
+      Raging Bull,154,1980,"Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",8.1
+      The Elephant Man,155,1980,"David Lynch (dir.), Anthony Hopkins, John Hurt",8.1
+      V for Vendetta,156,2005,"James McTeigue (dir.), Hugo Weaving, Natalie Portman",8.1
+      Gone with the Wind,157,1939,"Victor Fleming (dir.), Clark Gable, Vivien Leigh",8.1
+      Chinatown,158,1974,"Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",8.1
+      Inside Out,159,2015,"Pete Docter (dir.), Amy Poehler, Bill Hader",8.1
+"      Lock, Stock and Two Smoking Barrels",160,1998,"Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",8.1
+      The Thing,161,1982,"John Carpenter (dir.), Kurt Russell, Wilford Brimley",8.1
+      Dial M for Murder,162,1954,"Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",8.1
+      The Secret in Their Eyes,163,2009,"Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",8.1
+      Howl's Moving Castle,164,2004,"Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",8.1
+      The Bridge on the River Kwai,165,1957,"David Lean (dir.), William Holden, Alec Guinness",8.1
+      Trainspotting,166,1996,"Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",8.1
+"      Three Billboards Outside Ebbing, Missouri",167,2017,"Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",8.1
+      Warrior,168,2011,"Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",8.1
+      Gran Torino,169,2008,"Clint Eastwood (dir.), Clint Eastwood, Bee Vang",8.1
+      Fargo,170,1996,"Joel Coen (dir.), William H. Macy, Frances McDormand",8.1
+      My Neighbor Totoro,171,1988,"Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",8.1
+      Prisoners,172,2013,"Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",8.1
+      Million Dollar Baby,173,2004,"Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",8.1
+      Blade Runner,174,1982,"Ridley Scott (dir.), Harrison Ford, Rutger Hauer",8.1
+      The Gold Rush,175,1925,"Charles Chaplin (dir.), Charles Chaplin, Mack Swain",8.1
+      Catch Me If You Can,176,2002,"Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",8.1
+      On the Waterfront,177,1954,"Elia Kazan (dir.), Marlon Brando, Karl Malden",8.1
+      Children of Heaven,178,1997,"Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",8.1
+      Harry Potter and the Deathly Hallows: Part 2,179,2011,"David Yates (dir.), Daniel Radcliffe, Emma Watson",8.1
+      The Third Man,180,1949,"Carol Reed (dir.), Orson Welles, Joseph Cotten",8.1
+      Gone Girl,181,2014,"David Fincher (dir.), Ben Affleck, Rosamund Pike",8.1
+      Ben-Hur,182,1959,"William Wyler (dir.), Charlton Heston, Jack Hawkins",8.1
+      12 Years a Slave,183,2013,"Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",8.1
+      The General,184,1926,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",8.1
+      The Deer Hunter,185,1978,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",8.1
+      Wild Strawberries,186,1957,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",8.1
+      Before Sunrise,187,1995,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",8.1
+      In the Name of the Father,188,1993,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",8.1
+      M,189,1939,"Frank Capra (dir.), James Stewart, Jean Arthur",8.1
+      The Grand Budapest Hotel,190,2014,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",8.1
+      Pather Panchali,191,1955,"Satyajit Ray (dir.), Kanu Bannerjee, Karuna Bannerjee",8.1
+      Room,192,2015,"Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",8.1
+      Sherlock J,193,1924,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",8.1
+      Hacksaw Ridge,194,2016,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",8.1
+      How to Train Your Dragon,195,2010,"Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",8.1
+      Memories of Murder,196,2003,"Bong Joon Ho (dir.), Kang-ho Song, Kim Sang-kyung",8.1
+      Le salaire de la peur,197,1953,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",8.1
+      Barry Lyndon,198,1975,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",8.1
+      The Seventh Seal,199,1957,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",8.1
+      Klaus,200,2019,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",8.1
+      The Big Lebowski,201,1998,"Joel Coen (dir.), Jeff Bridges, John Goodman",8.1
+      Mad Max: Fury Road,202,2015,"George Miller (dir.), Tom Hardy, Charlize Theron",8.1
+      Wild Tales,203,2014,"Damián Szifron (dir.), Darío Grandinetti, María Marull",8.1
+"      Monsters, In",204,2001,"Pete Docter (dir.), Billy Crystal, John Goodman",8.1
+      Mary and Max,205,2009,"Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",8.1
+      Jaws,206,1975,"Steven Spielberg (dir.), Roy Scheider, Robert Shaw",8.1
+      La passion de Jeanne d'Arc,207,1928,"Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",8.1
+      Hotel Rwanda,208,2004,"Terry George (dir.), Don Cheadle, Sophie Okonedo",8.1
+      Rocky,209,1976,"John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",8.1
+      Dead Poets Society,210,1989,"Peter Weir (dir.), Robin Williams, Robert Sean Leonard",8.1
+      Tokyo Story,211,1953,"Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",8.1
+      Platoon,212,1986,"Oliver Stone (dir.), Charlie Sheen, Tom Berenger",8.1
+      Ford v Ferrari,213,2019,"James Mangold (dir.), Matt Damon, Christian Bale",8.1
+      The Terminator,214,1984,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",8.1
+      Stand by Me,215,1986,"Rob Reiner (dir.), Wil Wheaton, River Phoenix",8.1
+      Rush,216,2013,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",8.0
+      Into the Wild,217,2007,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",8.0
+      The Wizard of Oz,218,1939,"Victor Fleming (dir.), Judy Garland, Frank Morgan",8.0
+      Logan,219,2017,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",8.0
+      Spotlight,220,2015,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",8.0
+      Network,221,1976,"Sidney Lumet (dir.), Faye Dunaway, William Holden",8.0
+      Groundhog Day,222,1993,"Harold Ramis (dir.), Bill Murray, Andie MacDowell",8.0
+      Ratatouille,223,2007,"Brad Bird (dir.), Brad Garrett, Lou Romano",8.0
+      The Exorcist,224,1973,"William Friedkin (dir.), Ellen Burstyn, Max von Sydow",8.0
+      Hachi: A Dog's Tale,225,2009,"Lasse Hallström (dir.), Richard Gere, Joan Allen",8.0
+      The Incredibles,226,2004,"Brad Bird (dir.), Craig T. Nelson, Samuel L. Jackson",8.0
+      The Best Years of Our Lives,227,1946,"William Wyler (dir.), Myrna Loy, Dana Andrews",8.0
+      Dersu Uzala,228,1975,"Akira Kurosawa (dir.), Maksim Munzuk, Yuriy Solomin",8.0
+      Before Sunset,229,2004,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",8.0
+      Rebecca,230,1940,"Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",8.0
+      Babam ve Oglum,231,2005,"Cagan Irmak (dir.), Eser Sariyar, Çetin Tekindor",8.0
+      The Grapes of Wrath,232,1940,"John Ford (dir.), Henry Fonda, Jane Darwell",8.0
+      Cool Hand Luke,233,1967,"Stuart Rosenberg (dir.), Paul Newman, George Kennedy",8.0
+      To Be or Not to Be,234,1942,"Ernst Lubitsch (dir.), Carole Lombard, Jack Benny",8.0
+      Pirates of the Caribbean: The Curse of the Black Pearl,235,2003,"Gore Verbinski (dir.), Johnny Depp, Geoffrey Rush",8.0
+      La battaglia di Algeri,236,1966,"Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin",8.0
+      Amores perros,237,2000,"Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",8.0
+      Dune,238,2021,"Denis Villeneuve (dir.), Timothée Chalamet, Rebecca Ferguson",8.0
+      The Sound of Music,239,1965,"Robert Wise (dir.), Julie Andrews, Christopher Plummer",8.0
+      Life of Brian,240,1979,"Terry Jones (dir.), Graham Chapman, John Cleese",8.0
+      The 400 Blows,241,1959,"François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",8.0
+      Persona,242,1966,"Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",8.0
+      It Happened One Night,243,1934,"Frank Capra (dir.), Clark Gable, Claudette Colbert",8.0
+      La haine,244,1995,"Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",8.0
+      Aladdin,245,1992,"Ron Clements (dir.), Scott Weinger, Robin Williams",8.0
+      Beauty and the Beast,246,1991,"Gary Trousdale (dir.), Paige O'Hara, Robby Benson",8.0
+      Gandhi,247,1982,"Richard Attenborough (dir.), Ben Kingsley, John Gielgud",8.0
+      The Help,248,2011,"Tate Taylor (dir.), Emma Stone, Viola Davis",8.0
+      The Handmaiden,249,2016,"Park Chan-wook (dir.), Kim Min-hee, Ha Jung-woo",8.0
+      Dances with Wolves,250,1990,"Kevin Costner (dir.), Kevin Costner, Mary McDonnell",8.0
